@@ -20,4 +20,5 @@ A Python tool that automatically organizes files into folders based on file type
 python organizer.py
 <br>
 
-Author - Rayan Imran
+Author - Rayan Imran (UMT)
+sadda
