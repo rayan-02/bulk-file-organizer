@@ -21,4 +21,3 @@ python organizer.py
 <br>
 
 Author - Rayan Imran (UMT)
-sadda
