@@ -18,3 +18,6 @@ A Python tool that automatically organizes files into folders based on file type
 ## How to Run
 
 python organizer.py
+<br>
+
+Author - Rayan Imran
